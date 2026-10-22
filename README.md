@@ -1,1 +1,1 @@
-# linuxos
+creating a personalized linux based os
